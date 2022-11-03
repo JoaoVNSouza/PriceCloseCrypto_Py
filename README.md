@@ -1,8 +1,6 @@
 #### Python aplicado ao mercado financeiro
 
-##### 1º Instale a biblioteca YFINANCE no seu computador com o seguinte comando:
-
-##### pip install yfinance
+##### 1º Instale a biblioteca YFINANCE no seu computador com o seguinte comando: pip install yfinance
 
 ##### 2º Execute o arquivo .py ou o executável criado com o Pyinstaller
 
